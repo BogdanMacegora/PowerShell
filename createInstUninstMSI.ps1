@@ -1,8 +1,8 @@
 ####################################################################
-# Name:         get.ps1
+# Name:         createInstUninstMSI.ps1
 # Description:  Script for creating install.cmd and uninstall.cmd 
 #               for MSI package.
-# Usage:        get.ps1 <full path to MSI package>        
+# Usage:        createInstUninstMSI.ps1 <full path to MSI package>        
 ####################################################################
 
 param (
